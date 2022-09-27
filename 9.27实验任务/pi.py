@@ -24,6 +24,7 @@ def pi2():
     result = Sum * 4
     print("%.10f" % result)
     print(f"进行了{cnt}次")
+# 最快
 
 
 # method 3: 蒙特卡罗概率
@@ -43,7 +44,7 @@ def pi3():
     result = Sum / total * 4
     print("%.10f" % result)
     print(f"进行了{total}次")
-
+# 最慢
 
 if __name__ == '__main__':
     pi1()
