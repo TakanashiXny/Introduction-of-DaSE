@@ -2,7 +2,7 @@ import random
 import math
 
 
-# method 1: 无穷级数
+# method 1: 无穷级数 共10000次
 def pi1():
     cnt = 0
     Sum = 0
@@ -14,7 +14,7 @@ def pi1():
     print(f"进行了{cnt}次")
 
 
-# method 2: arc-tan1
+# method 2: arc-tan1 共2500次
 def pi2():
     Sum = 0
     cnt = 0
@@ -27,7 +27,7 @@ def pi2():
 # 最快
 
 
-# method 3: 蒙特卡罗概率
+# method 3: 蒙特卡罗概率 共8945683次
 def pi3():
     Sum = 0
     total = 1
