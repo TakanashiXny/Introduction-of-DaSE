@@ -1,0 +1,1206 @@
+Num,Gender,Age,Education Level,Institution Type,IT Student,Location,Load-shedding,Financial Condition,Internet Type,Network Type,Class Duration,Self Lms,Device,Adaptivity Level
+1,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+2,Girl,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+3,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+4,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+5,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+6,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+7,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+8,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+9,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+10,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+11,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+12,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+13,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+14,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+15,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+16,Boy,11月15日,School,Non Government,No,Yes,High,Poor,Wifi,4G,1月3日,No,Mobile,Low
+17,Girl,26-30,University,Government,Yes,Yes,Low,Poor,Mobile Data,4G,0,No,Computer,Low
+18,Girl,21-25,University,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+19,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+20,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+21,Girl,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,High
+22,Boy,6月10日,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+23,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Low
+24,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+25,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+26,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+27,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+28,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+29,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+30,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+31,Girl,6月10日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+32,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+33,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+34,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+35,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+36,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Mobile,Moderate
+37,Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+38,Girl,6月10日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,High
+39,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+40,Girl,11月15日,School,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,Low
+41,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+42,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Moderate
+43,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+44,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+45,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Computer,Low
+46,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+47,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+48,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+49,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+50,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Computer,Low
+51,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+52,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+53,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+54,Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+55,Boy,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+56,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+57,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+58,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+59,Girl,11月15日,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+60,Boy,16-20,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+61,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+62,Boy,21-25,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+63,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+64,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+65,Boy,11月15日,School,Non Government,No,Yes,High,Poor,Wifi,4G,1月3日,No,Mobile,Low
+66,Boy,26-30,University,Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+67,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+68,Girl,6月10日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+69,Girl,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+70,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+71,Boy,21-25,College,Government,No,No,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Low
+72,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+73,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+74,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+75,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+76,Girl,6月10日,School,Non Government,No,Yes,Low,Mid,Mobile Data,2G,1月3日,No,Mobile,Low
+77,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+78,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,4G,0,No,Mobile,Low
+79,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3月6日,No,Mobile,Moderate
+80,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+81,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+82,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3月6日,No,Mobile,Moderate
+83,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+84,Girl,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+85,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+86,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+87,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+88,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Moderate
+89,Boy,11月15日,School,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+90,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+91,Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+92,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+93,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Computer,Moderate
+94,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Low
+95,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+96,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+97,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+98,Girl,11月15日,School,Government,No,No,High,Poor,Mobile Data,2G,1月3日,No,Mobile,Low
+99,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Moderate
+100,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+101,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+102,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+103,Girl,16-20,College,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+104,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+105,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Wifi,4G,1月3日,No,Mobile,Moderate
+106,Boy,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+107,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+108,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+109,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+110,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,High
+111,Boy,6月10日,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+112,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+113,Boy,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+114,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+115,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+116,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+117,Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Low
+118,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,3月6日,Yes,Computer,Low
+119,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+120,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+121,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+122,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+123,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+124,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+125,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Computer,Moderate
+126,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+127,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+128,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+129,Girl,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+130,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,Yes,Computer,High
+131,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Mobile,Moderate
+132,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+133,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,High
+134,Boy,16-20,College,Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+135,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+136,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Low
+137,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+138,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+139,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+140,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+141,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+142,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+143,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+144,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+145,Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+146,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+147,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3月6日,No,Computer,Moderate
+148,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+149,Girl,21-25,University,Non Government,No,Yes,High,Poor,Wifi,4G,3月6日,No,Mobile,Low
+150,Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1月3日,No,Mobile,Low
+151,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+152,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+153,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,No,Mobile,High
+154,Boy,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+155,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Low
+156,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Computer,Low
+157,Boy,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+158,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,No,Computer,High
+159,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+160,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+161,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Low
+162,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,High
+163,Boy,16-20,University,Government,No,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+164,Boy,6月10日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+165,Girl,16-20,College,Government,No,No,High,Poor,Mobile Data,4G,0,No,Mobile,Low
+166,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+167,Boy,21-25,College,Government,No,No,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Low
+168,Boy,26-30,University,Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+169,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+170,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,Yes,Mobile,Low
+171,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Computer,Moderate
+172,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+173,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+174,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,Yes,Computer,High
+175,Boy,11月15日,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+176,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Low
+177,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1月3日,No,Mobile,Moderate
+178,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,Yes,Mobile,Low
+179,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+180,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+181,Boy,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+182,Boy,1月5日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+183,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+184,Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Computer,Moderate
+185,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+186,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+187,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+188,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+189,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+190,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+191,Boy,11月15日,School,Non Government,No,Yes,High,Poor,Wifi,4G,1月3日,No,Mobile,Low
+192,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+193,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+194,Boy,16-20,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+195,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+196,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Low
+197,Boy,16-20,College,Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+198,Boy,11月15日,School,Non Government,Yes,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+199,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+200,Girl,11月15日,School,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,Low
+201,Boy,6月10日,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+202,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+203,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+204,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Moderate
+205,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+206,Boy,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,High
+207,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+208,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+209,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+210,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,3G,3月6日,Yes,Mobile,Low
+211,Girl,11月15日,School,Government,No,No,High,Poor,Mobile Data,2G,1月3日,No,Mobile,Low
+212,Girl,16-20,School,Government,No,No,Low,Rich,Mobile Data,4G,1月3日,No,Mobile,High
+213,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+214,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+215,Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+216,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,No,Mobile,Moderate
+217,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+218,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+219,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3月6日,No,Mobile,Low
+220,Boy,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+221,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Computer,Moderate
+222,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3月6日,No,Mobile,Moderate
+223,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+224,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+225,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Low
+226,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+227,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+228,Boy,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+229,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+230,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+231,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1月3日,No,Mobile,Moderate
+232,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Moderate
+233,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+234,Boy,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,High
+235,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+236,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+237,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+238,Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+239,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,2G,3月6日,No,Mobile,Moderate
+240,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+241,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+242,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+243,Girl,11月15日,School,Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+244,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+245,Girl,11月15日,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+246,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Wifi,4G,1月3日,No,Mobile,Moderate
+247,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Computer,Moderate
+248,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+249,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+250,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+251,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+252,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+253,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+254,Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+255,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1月3日,No,Mobile,Moderate
+256,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+257,Boy,16-20,College,Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+258,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+259,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+260,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,High
+261,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+262,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Low
+263,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+264,Boy,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+265,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+266,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Wifi,4G,1月3日,No,Mobile,Moderate
+267,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+268,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Low
+269,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+270,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,Yes,Mobile,High
+271,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+272,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+273,Boy,11月15日,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+274,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+275,Girl,6月10日,School,Non Government,No,Yes,Low,Mid,Mobile Data,2G,1月3日,No,Mobile,Low
+276,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+277,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+278,Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1月3日,No,Mobile,Low
+279,Boy,21-25,University,Non Government,No,No,Low,Poor,Mobile Data,4G,1月3日,Yes,Mobile,Low
+280,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+281,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+282,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+283,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+284,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1月3日,Yes,Computer,High
+285,Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+286,Boy,21-25,College,Government,Yes,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+287,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+288,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+289,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+290,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+291,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+292,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+293,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+294,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+295,Girl,1月5日,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,Yes,Mobile,Low
+296,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+297,Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Tab,High
+298,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+299,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+300,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+301,Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Computer,High
+302,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+303,Boy,1月5日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+304,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+305,Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3月6日,No,Mobile,Moderate
+306,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Low
+307,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Tab,Moderate
+308,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1月3日,No,Mobile,Moderate
+309,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+310,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+311,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+312,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+313,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+314,Boy,11月15日,School,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+315,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+316,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+317,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+318,Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+319,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+320,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+321,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1月3日,No,Mobile,Moderate
+322,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+323,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+324,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+325,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Low
+326,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+327,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+328,Boy,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+329,Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+330,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+331,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+332,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,Low
+333,Girl,21-25,University,Non Government,No,Yes,High,Poor,Wifi,4G,3月6日,No,Mobile,Low
+334,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+335,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+336,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Moderate
+337,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+338,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+339,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+340,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+341,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+342,Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+343,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+344,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+345,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Computer,Low
+346,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+347,Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+348,Boy,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+349,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+350,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3月6日,No,Mobile,Moderate
+351,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+352,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+353,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+354,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+355,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+356,Boy,16-20,College,Government,Yes,No,Low,Rich,Wifi,4G,0,No,Mobile,Low
+357,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+358,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+359,Girl,6月10日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+360,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+361,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+362,Girl,6月10日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,High
+363,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Low
+364,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+365,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Low
+366,Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Computer,High
+367,Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+368,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+369,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,Moderate
+370,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+371,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+372,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+373,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Low
+374,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Moderate
+375,Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+376,Girl,6月10日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+377,Girl,11月15日,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+378,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+379,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+380,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+381,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+382,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+383,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+384,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+385,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Moderate
+386,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+387,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+388,Boy,11月15日,School,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+389,Boy,26-30,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+390,Girl,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+391,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,High
+392,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+393,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+394,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+395,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Low
+396,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+397,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Low
+398,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3月6日,No,Mobile,Low
+399,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1月3日,Yes,Computer,High
+400,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+401,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+402,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Moderate
+403,Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Low
+404,Boy,16-20,College,Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+405,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+406,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+407,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Computer,High
+408,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+409,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+410,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,High
+411,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,Yes,Computer,High
+412,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1月3日,Yes,Computer,High
+413,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+414,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+415,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+416,Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Low
+417,Boy,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+418,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Moderate
+419,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Computer,Moderate
+420,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Low
+421,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+422,Girl,6月10日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+423,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+424,Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+425,Boy,1月5日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+426,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+427,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+428,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Computer,High
+429,Boy,11月15日,School,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Computer,Low
+430,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+431,Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3月6日,No,Mobile,Moderate
+432,Girl,26-30,University,Government,Yes,Yes,Low,Poor,Mobile Data,4G,0,No,Computer,Low
+433,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+434,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+435,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+436,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+437,Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+438,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+439,Boy,11月15日,School,Non Government,No,Yes,High,Poor,Wifi,4G,1月3日,No,Mobile,Low
+440,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+441,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+442,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+443,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+444,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+445,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+446,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+447,Boy,21-25,College,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+448,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,High
+449,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3月6日,No,Mobile,Low
+450,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+451,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3月6日,No,Mobile,Moderate
+452,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3月6日,No,Computer,High
+453,Boy,1月5日,School,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+454,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+455,Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3月6日,No,Mobile,Moderate
+456,Girl,21-25,University,Government,No,Yes,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+457,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+458,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+459,Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+460,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3月6日,No,Computer,Moderate
+461,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+462,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,Yes,Mobile,High
+463,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,High
+464,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,Yes,Mobile,High
+465,Girl,11月15日,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1月3日,No,Mobile,High
+466,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+467,Boy,21-25,College,Government,No,No,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Low
+468,Boy,11月15日,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+469,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+470,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Low
+471,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+472,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Low
+473,Boy,11月15日,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+474,Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+475,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+476,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+477,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,Yes,Mobile,High
+478,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+479,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+480,Boy,26-30,University,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Moderate
+481,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,Moderate
+482,Boy,21-25,University,Government,No,No,High,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+483,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+484,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+485,Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+486,Boy,16-20,School,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+487,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+488,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+489,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+490,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1月3日,No,Mobile,Moderate
+491,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1月3日,Yes,Computer,High
+492,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+493,Boy,16-20,College,Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+494,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3月6日,No,Computer,High
+495,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+496,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+497,Boy,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+498,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Moderate
+499,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+500,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+501,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+502,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+503,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+504,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Computer,Low
+505,Girl,16-20,College,Government,No,No,High,Poor,Mobile Data,4G,0,No,Mobile,Low
+506,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,2G,1月3日,No,Mobile,Low
+507,Girl,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,High
+508,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+509,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+510,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+511,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+512,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+513,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+514,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+515,Girl,11月15日,School,Government,No,No,High,Poor,Mobile Data,2G,1月3日,No,Mobile,Low
+516,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+517,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+518,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,Yes,Computer,High
+519,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+520,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+521,Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+522,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+523,Boy,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+524,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Mobile,Moderate
+525,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+526,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+527,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+528,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+529,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+530,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+531,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+532,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+533,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+534,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+535,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+536,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Computer,Moderate
+537,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+538,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+539,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+540,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+541,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+542,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+543,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+544,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+545,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+546,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+547,Girl,6月10日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,High
+548,Boy,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+549,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+550,Boy,26-30,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+551,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+552,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+553,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+554,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+555,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+556,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+557,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+558,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,2G,3月6日,No,Mobile,Moderate
+559,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+560,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+561,Boy,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Mobile,High
+562,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+563,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+564,Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+565,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+566,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,No,Computer,Moderate
+567,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+568,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+569,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+570,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3月6日,No,Mobile,Moderate
+571,Boy,26-30,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+572,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1月3日,No,Mobile,Moderate
+573,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1月3日,Yes,Computer,High
+574,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+575,Girl,16-20,College,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+576,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+577,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+578,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+579,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Mobile,Moderate
+580,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+581,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Computer,Low
+582,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Low
+583,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,2G,1月3日,No,Mobile,Low
+584,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+585,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Computer,High
+586,Girl,21-25,University,Non Government,Yes,No,High,Poor,Wifi,2G,3月6日,Yes,Tab,Low
+587,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+588,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+589,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3月6日,No,Mobile,Low
+590,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+591,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,No,Mobile,Moderate
+592,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+593,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,No,Computer,High
+594,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Computer,Low
+595,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+596,Boy,16-20,College,Government,Yes,No,Low,Rich,Wifi,4G,0,No,Mobile,Low
+597,Boy,26-30,University,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Moderate
+598,Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3月6日,No,Mobile,Moderate
+599,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3月6日,No,Mobile,Moderate
+600,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+601,Girl,1月5日,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,Yes,Mobile,Low
+602,Girl,21-25,University,Government,No,Yes,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+603,Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Tab,Moderate
+604,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+605,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+606,Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3月6日,No,Mobile,Moderate
+607,Boy,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,High
+608,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+609,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+610,Boy,1月5日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+611,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+612,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+613,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+614,Boy,21-25,University,Government,No,No,High,Mid,Wifi,4G,0,No,Mobile,Low
+615,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+616,Girl,6月10日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,High
+617,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+618,Girl,6月10日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+619,Girl,21-25,University,Government,No,Yes,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+620,Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Computer,High
+621,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+622,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+623,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+624,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+625,Boy,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+626,Boy,11月15日,School,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Computer,Low
+627,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+628,Boy,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,High
+629,Boy,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Mobile,High
+630,Boy,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+631,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+632,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+633,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+634,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+635,Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,3G,0,Yes,Mobile,Low
+636,Boy,11月15日,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+637,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+638,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+639,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+640,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+641,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,No,Mobile,High
+642,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+643,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+644,Girl,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,High
+645,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+646,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+647,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+648,Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+649,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,Yes,Mobile,High
+650,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+651,Girl,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+652,Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+653,Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+654,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+655,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,3月6日,Yes,Computer,Low
+656,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1月3日,No,Mobile,Moderate
+657,Boy,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,High
+658,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+659,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+660,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Low
+661,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+662,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+663,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+664,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+665,Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+666,Girl,16-20,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+667,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+668,Girl,11月15日,School,Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+669,Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Low
+670,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1月3日,No,Mobile,Moderate
+671,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+672,Girl,21-25,University,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+673,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+674,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+675,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Low
+676,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+677,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+678,Boy,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+679,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+680,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+681,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Low
+682,Girl,6月10日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,High
+683,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+684,Boy,26-30,University,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Moderate
+685,Boy,11月15日,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+686,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+687,Boy,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+688,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3月6日,No,Mobile,Low
+689,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+690,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1月3日,Yes,Computer,High
+691,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+692,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+693,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+694,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+695,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Low
+696,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3月6日,No,Mobile,Moderate
+697,Girl,6月10日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+698,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Computer,Low
+699,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+700,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+701,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+702,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+703,Girl,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+704,Girl,1月5日,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,Yes,Mobile,Low
+705,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+706,Girl,21-25,University,Non Government,Yes,No,High,Mid,Wifi,4G,1月3日,Yes,Computer,Moderate
+707,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+708,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+709,Boy,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+710,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+711,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+712,Boy,21-25,College,Government,Yes,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+713,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,Yes,Mobile,Low
+714,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+715,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+716,Girl,11月15日,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+717,Girl,11月15日,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1月3日,No,Mobile,High
+718,Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+719,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+720,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+721,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+722,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+723,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+724,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+725,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+726,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+727,Girl,16-20,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+728,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+729,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+730,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+731,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Mobile,Moderate
+732,Girl,16-20,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+733,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+734,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1月3日,Yes,Computer,High
+735,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+736,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,High
+737,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+738,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+739,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+740,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+741,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Tab,Moderate
+742,Boy,11月15日,School,Non Government,Yes,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+743,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+744,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+745,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+746,Boy,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+747,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Moderate
+748,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+749,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,Yes,Mobile,High
+750,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+751,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+752,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+753,Boy,11月15日,School,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+754,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+755,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,2G,3月6日,No,Mobile,Moderate
+756,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+757,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Computer,Moderate
+758,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,Low
+759,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+760,Boy,21-25,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+761,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+762,Girl,21-25,University,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+763,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3月6日,No,Computer,Moderate
+764,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+765,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+766,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+767,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+768,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+769,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+770,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,High
+771,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+772,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+773,Girl,21-25,University,Non Government,Yes,No,High,Poor,Wifi,2G,3月6日,Yes,Tab,Low
+774,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+775,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3月6日,No,Mobile,Low
+776,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+777,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+778,Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+779,Girl,6月10日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+780,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+781,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+782,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+783,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+784,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+785,Boy,21-25,University,Non Government,No,No,Low,Poor,Mobile Data,4G,1月3日,Yes,Mobile,Low
+786,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+787,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+788,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+789,Boy,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Mobile,High
+790,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+791,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+792,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+793,Girl,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+794,Girl,11月15日,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+795,Boy,21-25,University,Government,No,No,High,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+796,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+797,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+798,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,3月6日,No,Mobile,Moderate
+799,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+800,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+801,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+802,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+803,Boy,11月15日,School,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Computer,Low
+804,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+805,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Low
+806,Boy,6月10日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+807,Girl,11月15日,School,Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+808,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+809,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+810,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+811,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,No,Computer,High
+812,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+813,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+814,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+815,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1月3日,No,Mobile,High
+816,Girl,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+817,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,No,Mobile,Moderate
+818,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+819,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+820,Boy,11月15日,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+821,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+822,Girl,6月10日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+823,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+824,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+825,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+826,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+827,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+828,Girl,21-25,University,Non Government,Yes,No,High,Mid,Wifi,4G,1月3日,Yes,Computer,Moderate
+829,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+830,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,No,Mobile,Moderate
+831,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+832,Boy,11月15日,School,Non Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+833,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+834,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+835,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Computer,Low
+836,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+837,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+838,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+839,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+840,Girl,6月10日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+841,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+842,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,High
+843,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+844,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Computer,Moderate
+845,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+846,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+847,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+848,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+849,Girl,6月10日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,High
+850,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+851,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+852,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+853,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+854,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+855,Girl,16-20,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+856,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,4G,0,No,Mobile,Low
+857,Girl,11月15日,School,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,Low
+858,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+859,Boy,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+860,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+861,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+862,Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+863,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Low
+864,Girl,6月10日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+865,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Low
+866,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+867,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+868,Girl,16-20,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+869,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+870,Girl,6月10日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+871,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+872,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+873,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+874,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+875,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+876,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Moderate
+877,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+878,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+879,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+880,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+881,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+882,Girl,11月15日,School,Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Low
+883,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+884,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3月6日,No,Mobile,Moderate
+885,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+886,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,No,Mobile,Moderate
+887,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+888,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+889,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Computer,Moderate
+890,Boy,26-30,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+891,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Computer,Moderate
+892,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+893,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1月3日,No,Mobile,Moderate
+894,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+895,Girl,6月10日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+896,Girl,21-25,University,Non Government,Yes,No,High,Mid,Wifi,4G,1月3日,Yes,Computer,Moderate
+897,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+898,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,No,Mobile,Moderate
+899,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Low
+900,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+901,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+902,Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+903,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+904,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+905,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+906,Boy,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Mobile,High
+907,Girl,11月15日,School,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,Low
+908,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+909,Boy,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+910,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+911,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+912,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Low
+913,Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+914,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+915,Girl,6月10日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+916,Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+917,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+918,Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+919,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1月3日,Yes,Computer,High
+920,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+921,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+922,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+923,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,No,Computer,Moderate
+924,Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+925,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,High
+926,Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+927,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+928,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+929,Boy,6月10日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+930,Girl,11月15日,School,Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+931,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+932,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+933,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+934,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3月6日,No,Computer,Moderate
+935,Boy,6月10日,School,Government,No,No,High,Mid,Mobile Data,2G,0,No,Mobile,Low
+936,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Tab,Moderate
+937,Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Tab,High
+938,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+939,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+940,Girl,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,High
+941,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+942,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+943,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+944,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+945,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+946,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+947,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+948,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+949,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+950,Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+951,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3月6日,No,Mobile,Low
+952,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Low
+953,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Moderate
+954,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+955,Girl,6月10日,School,Non Government,No,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,High
+956,Boy,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+957,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+958,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+959,Boy,6月10日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+960,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+961,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Low
+962,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+963,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,Yes,Computer,High
+964,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+965,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+966,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+967,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+968,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+969,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+970,Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+971,Girl,11月15日,School,Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+972,Girl,11月15日,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+973,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+974,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1月3日,No,Mobile,Moderate
+975,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Low
+976,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+977,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+978,Boy,6月10日,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+979,Boy,6月10日,School,Government,No,No,High,Mid,Mobile Data,2G,0,No,Mobile,Low
+980,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+981,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+982,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+983,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+984,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Moderate
+985,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+986,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+987,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+988,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+989,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+990,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+991,Girl,21-25,University,Non Government,No,Yes,High,Poor,Wifi,4G,3月6日,No,Mobile,Low
+992,Boy,11月15日,School,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Computer,Low
+993,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+994,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Low
+995,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+996,Girl,16-20,School,Government,No,No,Low,Rich,Mobile Data,4G,1月3日,No,Mobile,High
+997,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+998,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+999,Girl,11月15日,School,Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Low
+1000,Boy,16-20,University,Government,No,No,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1001,Boy,11月15日,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1002,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+1003,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+1004,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1005,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1006,Boy,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1007,Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Computer,Moderate
+1008,Girl,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+1009,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1010,Boy,11月15日,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1011,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+1012,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1013,Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1月3日,No,Mobile,Low
+1014,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1015,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1016,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+1017,Boy,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+1018,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1019,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1020,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1021,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+1022,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+1023,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3月6日,No,Mobile,Moderate
+1024,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1025,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+1026,Boy,26-30,University,Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+1027,Boy,11月15日,School,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Computer,Low
+1028,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1029,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+1030,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+1031,Girl,11月15日,School,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,Low
+1032,Girl,6月10日,School,Non Government,No,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,High
+1033,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1034,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+1035,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3月6日,No,Computer,Moderate
+1036,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Low
+1037,Boy,1月5日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1038,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Mobile,Moderate
+1039,Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+1040,Girl,11月15日,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1月3日,No,Mobile,High
+1041,Boy,11月15日,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1042,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+1043,Boy,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+1044,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+1045,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+1046,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Computer,Low
+1047,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Tab,Moderate
+1048,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1049,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1050,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1051,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1052,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Moderate
+1053,Girl,11月15日,School,Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+1054,Boy,11月15日,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1055,Boy,1月5日,School,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1056,Girl,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+1057,Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3月6日,No,Tab,Moderate
+1058,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1059,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3月6日,No,Computer,Moderate
+1060,Boy,11月15日,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1061,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+1062,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+1063,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,No,Computer,Moderate
+1064,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+1065,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1066,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,No,Computer,High
+1067,Boy,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+1068,Boy,21-25,University,Government,No,No,High,Mid,Wifi,4G,0,No,Mobile,Low
+1069,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+1070,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3月6日,Yes,Mobile,Moderate
+1071,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+1072,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+1073,Boy,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,High
+1074,Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,3G,0,Yes,Mobile,Low
+1075,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1076,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,3月6日,Yes,Computer,Low
+1077,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,High
+1078,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1079,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1080,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,2G,1月3日,No,Mobile,Low
+1081,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Low
+1082,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+1083,Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+1084,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1085,Girl,16-20,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+1086,Boy,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+1087,Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1088,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1089,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1090,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+1091,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1092,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+1093,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Low
+1094,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+1095,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+1096,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3月6日,No,Computer,High
+1097,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,3G,3月6日,Yes,Mobile,Moderate
+1098,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3月6日,No,Mobile,Low
+1099,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+1100,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1月3日,No,Mobile,Moderate
+1101,Boy,11月15日,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1102,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1103,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+1104,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1105,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1106,Boy,16-20,School,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+1107,Girl,6月10日,School,Non Government,No,Yes,Low,Mid,Wifi,3G,1月3日,No,Mobile,High
+1108,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1109,Boy,6月10日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+1110,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3月6日,No,Mobile,Moderate
+1111,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Moderate
+1112,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1113,Boy,11月15日,School,Non Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+1114,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+1115,Girl,11月15日,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1月3日,No,Mobile,High
+1116,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+1117,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1118,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+1119,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+1120,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1121,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1122,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1123,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+1124,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Tab,Moderate
+1125,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3月6日,No,Computer,Low
+1126,Girl,11月15日,School,Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+1127,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3月6日,No,Computer,Low
+1128,Boy,6月10日,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1129,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+1130,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1131,Boy,11月15日,School,Non Government,No,Yes,High,Poor,Wifi,4G,1月3日,No,Mobile,Low
+1132,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1133,Boy,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1134,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1135,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1136,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+1137,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+1138,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Moderate
+1139,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+1140,Boy,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+1141,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+1142,Boy,11月15日,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1月3日,No,Mobile,High
+1143,Girl,16-20,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+1144,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Low
+1145,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1146,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1月3日,Yes,Tab,Moderate
+1147,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Moderate
+1148,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1149,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1150,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Low
+1151,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+1152,Girl,11月15日,School,Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1153,Girl,1月5日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1154,Girl,11月15日,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1155,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3月6日,No,Computer,Low
+1156,Girl,1月5日,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1157,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+1158,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,No,Computer,High
+1159,Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1月3日,No,Mobile,Low
+1160,Boy,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1161,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+1162,Girl,11月15日,School,Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+1163,Girl,16-20,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+1164,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3月6日,No,Mobile,Moderate
+1165,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3月6日,No,Mobile,Moderate
+1166,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+1167,Girl,11月15日,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Computer,Moderate
+1168,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+1169,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3月6日,Yes,Computer,Moderate
+1170,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3月6日,Yes,Mobile,Low
+1171,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+1172,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,High
+1173,Boy,21-25,University,Government,No,No,High,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+1174,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Low
+1175,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,3月6日,No,Mobile,Moderate
+1176,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+1177,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1月3日,No,Computer,High
+1178,Boy,6月10日,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+1179,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1月3日,No,Mobile,Moderate
+1180,Girl,11月15日,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1月3日,No,Mobile,High
+1181,Boy,1月5日,School,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1182,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1月3日,Yes,Mobile,Low
+1183,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+1184,Girl,16-20,College,Government,No,No,High,Poor,Mobile Data,4G,0,No,Mobile,Low
+1185,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1186,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Low
+1187,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1188,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1189,Boy,6月10日,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1月3日,No,Mobile,Moderate
+1190,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1191,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1月3日,Yes,Mobile,Moderate
+1192,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1193,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1194,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1月3日,Yes,Computer,High
+1195,Boy,11月15日,School,Non Government,No,No,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+1196,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1月3日,Yes,Computer,High
+1197,Boy,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1月3日,No,Mobile,Low
+1198,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,3月6日,No,Computer,Moderate
+1199,Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1200,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3月6日,No,Computer,Low
+1201,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1202,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3月6日,No,Mobile,Moderate
+1203,Boy,11月15日,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1月3日,No,Mobile,Moderate
+1204,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1月3日,No,Mobile,Low
+1205,Girl,11月15日,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1月3日,No,Mobile,Moderate
